@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainGame.qml</file>
+        <file>Gameboard/Gameboard.qml</file>
+        <file>Scoreboard/Scoreboard.qml</file>
+        <file>main.cpp</file>
+        <file>Gameboard/GameData.qml</file>
+        <file>Gameboard/GameElements/QuestionMusic.qml</file>
+        <file>Gameboard/GameElements/GameCard.qml</file>
+        <file>Gameboard/Images/background.jpg</file>
+        <file>Gameboard/GameElements/GameCardHeader.qml</file>
+        <file>Gameboard/GameElements/QuestionModule.qml</file>
+        <file>Gameboard/Audio/Madeon.mp3</file>
+        <file>Gameboard/GameElements/MusicPlayer.qml</file>
+        <file>Gameboard/GameElements/QuestionImage.qml</file>
+        <file>Gameboard/Images/willsmith.jpg</file>
+        <file>Gameboard/GameElements/QuestionNormal.qml</file>
+        <file>Gameboard/Audio/REVERTED_Madeon.mp3</file>
+    </qresource>
+</RCC>
